@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NoInArray:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoInArray_jar</output-path>
+    <root id="archive" name="NoInArray.jar">
+      <element id="module-output" name="NoInArray" />
+    </root>
+  </artifact>
+</component>
