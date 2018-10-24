@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a55de2fd-aff8-4190-acbc-305e8b1ec118" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NoInArray/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NoInArray/src/test/java/com/walmart/source/FindNoInArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebhookJenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebhookJenkins.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoInArray/NoInArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NoInArray/NoInArray.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoInArray/out/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoInArray/out/com/walmart/source/FindNoInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoInArray/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoInArray/src/com/walmart/source/FindNoInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NoInArray_jar/NoInArray.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NoInArray_jar/NoInArray.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoInArray/src/test/java/com/walmart/source/FindNoInArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NoInArray/src/test/java/com/walmart/source/FindNoInArrayTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/NoInArray/target/" />
@@ -40,8 +27,8 @@
       <file leaf-file-name="FindNoInArrayTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NoInArray/src/test/java/com/walmart/source/FindNoInArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -348,7 +335,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540287081530</updated>
-      <workItem from="1540287083376" duration="5439000" />
+      <workItem from="1540287083376" duration="5601000" />
     </task>
     <servers />
   </component>
@@ -362,9 +349,12 @@
     <history-entry file="FindNoInArrayTest - 2018.10.24 at 15h 29m 09s.xml">
       <configuration name="FindNoInArrayTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FindNoInArrayTest - 2018.10.24 at 17h 14m 35s.xml">
+      <configuration name="FindNoInArrayTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5439000" />
+    <option name="totallyTimeSpent" value="5601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -494,8 +484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NoInArray/src/test/java/com/walmart/source/FindNoInArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
