@@ -11,6 +11,6 @@ public class FindNoInArrayTest {
         FindNoInArray.findNo(2);
         FindNoInArray.findNo(9);
         FindNoInArray.findNo(12);
-        FindNoInArray.findNo(1);
+        FindNoInArray.findNo(3);
     }
 }
